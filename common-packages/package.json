@@ -1,0 +1,15 @@
+{
+  "name": "booking-mongo-db",
+  "version": "1.0.0",
+  "description": "db library",
+  "main": "db-operation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/logesh-siva68/mongo-db-lib.git)"
+  },
+  "author": "Logesh",
+  "license": "ISC"
+}
